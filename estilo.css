@@ -1,26 +1,28 @@
-.conteudo {
+ /*.conteudo {
     border: 1px solid red;
-    /*padding-top: 20px;
+    padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    padding-left: 20px;*/
+    padding-left: 20px;
 
-    /*padding: 20px 15px 10px 5px;*/
+   padding: 20px 15px 10px 5px;
     padding: 20px;
 
-    /*margin-top: 20px;
+    margin-top: 20px;
     margin-right: 20px;
     margin-left: 20px;
-    margin-bottom: 20px;*/
+    margin-bottom: 20px;
 
     margin: 10px;
 
     width: 150px;
 }
 
+Realizei a exclusão de alguns comentarios que estavam neste arquivo sugiro, que caso precise utiliza-lo, baixe o estilo css da aula 41 - Elementos flutuantes, exclua esse e troque pelo outro
+
 .conteudo2 {
     border: 1px solid red;
     margin: 50px;
     width: 150px;
 
-}
+}*/
